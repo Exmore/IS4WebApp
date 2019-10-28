@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Vs2019Projects\\ISExample\\IS4WebApp\\IS4WebApp.csproj": {}
+    "D:\\Vs2019Projects\\IS4WebAppGit\\IS4WebApp\\IS4WebApp\\IS4WebApp.csproj": {}
   },
   "projects": {
-    "D:\\Vs2019Projects\\ISExample\\IS4WebApp\\IS4WebApp.csproj": {
+    "D:\\Vs2019Projects\\IS4WebAppGit\\IS4WebApp\\IS4WebApp\\IS4WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Vs2019Projects\\ISExample\\IS4WebApp\\IS4WebApp.csproj",
+        "projectUniqueName": "D:\\Vs2019Projects\\IS4WebAppGit\\IS4WebApp\\IS4WebApp\\IS4WebApp.csproj",
         "projectName": "IS4WebApp",
-        "projectPath": "D:\\Vs2019Projects\\ISExample\\IS4WebApp\\IS4WebApp.csproj",
+        "projectPath": "D:\\Vs2019Projects\\IS4WebAppGit\\IS4WebApp\\IS4WebApp\\IS4WebApp.csproj",
         "packagesPath": "C:\\Users\\Vladislav\\.nuget\\packages\\",
-        "outputPath": "D:\\Vs2019Projects\\ISExample\\IS4WebApp\\obj\\",
+        "outputPath": "D:\\Vs2019Projects\\IS4WebAppGit\\IS4WebApp\\IS4WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
