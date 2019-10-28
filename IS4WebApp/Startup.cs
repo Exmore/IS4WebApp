@@ -13,6 +13,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.IdentityModel.Protocols.OpenIdConnect;
 
 namespace IS4WebApp
 {
@@ -39,6 +40,17 @@ namespace IS4WebApp
                 .AddApiAuthorization<ApplicationUser, ApplicationDbContext>();
 
             services.AddAuthentication()
+                .AddOpenIdConnect("Google", "Google",
+                    o =>
+                    {
+                        IConfigurationSection googleAuthNSection =
+                            Configuration.GetSection("Authentication:Google");
+                        o.ClientId = googleAuthNSection["ClientId"];
+                        o.ClientSecret = googleAuthNSection["ClientSecret"];
+                        o.Authority = "https://accounts.google.com";
+                        o.ResponseType = OpenIdConnectResponseType.Code;
+                        o.CallbackPath = "/signin-google";
+                    })
                 .AddIdentityServerJwt();
 
             services.AddSpaStaticFiles(configuration =>
