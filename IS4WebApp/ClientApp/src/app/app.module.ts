@@ -9,13 +9,15 @@ import { ApiAuthorizationModule } from './api-authorization/api-authorization.mo
 import { HttpClientModule, HTTP_INTERCEPTORS } from '@angular/common/http';
 import { ExchangeRateComponent } from './exchange-rate/exchange-rate.component';
 import { AuthorizeInterceptor } from './api-authorization/authorize.interceptor';
+import { InternalDataComponent } from './internal-data/internal-data.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
     DataComponent,
-    ExchangeRateComponent
+    ExchangeRateComponent,
+    InternalDataComponent
   ],
   imports: [
     BrowserModule,

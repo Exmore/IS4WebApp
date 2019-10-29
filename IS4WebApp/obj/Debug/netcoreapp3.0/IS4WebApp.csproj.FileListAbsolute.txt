@@ -349,3 +349,13 @@ D:\Vs2019Projects\IS4WebAppGit\IS4WebApp\IS4WebApp\bin\Debug\netcoreapp3.0\Clien
 D:\Vs2019Projects\IS4WebAppGit\IS4WebApp\IS4WebApp\bin\Debug\netcoreapp3.0\ClientApp\src\tslint.json
 D:\Vs2019Projects\IS4WebAppGit\IS4WebApp\IS4WebApp\bin\Debug\netcoreapp3.0\ClientApp\tsconfig.json
 D:\Vs2019Projects\IS4WebAppGit\IS4WebApp\IS4WebApp\bin\Debug\netcoreapp3.0\ClientApp\tslint.json
+D:\Vs2019Projects\IS4WebAppGit\IS4WebApp\IS4WebApp\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+D:\Vs2019Projects\IS4WebAppGit\IS4WebApp\IS4WebApp\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Vs2019Projects\IS4WebAppGit\IS4WebApp\IS4WebApp\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\Vs2019Projects\IS4WebAppGit\IS4WebApp\IS4WebApp\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\Vs2019Projects\IS4WebAppGit\IS4WebApp\IS4WebApp\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Vs2019Projects\IS4WebAppGit\IS4WebApp\IS4WebApp\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Vs2019Projects\IS4WebAppGit\IS4WebApp\IS4WebApp\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Vs2019Projects\IS4WebAppGit\IS4WebApp\IS4WebApp\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Vs2019Projects\IS4WebAppGit\IS4WebApp\IS4WebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Vs2019Projects\IS4WebAppGit\IS4WebApp\IS4WebApp\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
